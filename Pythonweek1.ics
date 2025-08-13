@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:1@pythonweekplan
+DTSTAMP:20250813T120000
+DTSTART:20250813T181500
+DTEND:20250813T184500
+SUMMARY:Python Day 1 – Intro & Setup
+DESCRIPTION:Lecture: https://youtu.be/vLqTf2b6GZw?t=0\n\nPractice:\n1. Print "Hello World".\n2. Print your name in one line.\n3. Print your name and age in two lines.\n4. Print "Python is easy" 3 times.\n5. Print a multi-line string.\n6. Print number 123.\n7. Print special characters (@,#,$).\n8. Print "I love Python" using single quotes.\n9. Print "I love Python" using double quotes.\n10. Print "This is 'Python'".
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2@pythonweekplan
+DTSTAMP:20250814T120000
+DTSTART:20250814T181500
+DTEND:20250814T184500
+SUMMARY:Python Day 2 – Variables & Data Types
+DESCRIPTION:Lecture: https://youtu.be/vLqTf2b6GZw?t=435\n\nPractice:\n1. Store your name in a variable and print it.\n2. Store two integers and print their sum.\n3. Store two floats and print their multiplication.\n4. Store a string and print its type.\n5. Store a number and print its type.\n6. Store True in a variable and print it.\n7. Swap two variables and print before/after.\n8. Assign same value to three variables.\n9. Assign different values to three variables.\n10. Add int and float, print result and type.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3@pythonweekplan
+DTSTAMP:20250815T120000
+DTSTART:20250815T181500
+DTEND:20250815T184500
+SUMMARY:Python Day 3 – Input & Output
+DESCRIPTION:Lecture: https://youtu.be/vLqTf2b6GZw?t=910\n\nPractice:\n1. Input name, print Hello <name>.\n2. Input two numbers, print sum.\n3. Input two numbers, print difference.\n4. Input two numbers, print product.\n5. Input two numbers, print division.\n6. Input age, print You are <age> years old.\n7. Input city, print Welcome to <city>.\n8. Input first & last name, print full name.\n9. Input two strings, concatenate.\n10. Input number, print it twice (44 for 4).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4@pythonweekplan
+DTSTAMP:20250816T120000
+DTSTART:20250816T181500
+DTEND:20250816T184500
+SUMMARY:Python Day 4 – Type Conversion
+DESCRIPTION:Lecture: https://youtu.be/vLqTf2b6GZw?t=1405\n\nPractice:\n1. Convert string "25" to int.\n2. Convert 3.5 to int.\n3. Convert int 10 to float.\n4. Convert int 1 to boolean.\n5. Convert False to int.\n6. Input number as string, convert to int, square.\n7. Input int, convert to float.\n8. Input float, convert to int.\n9. Convert "123.45" to float.\n10. Convert int 5 to string and add " apples".
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5@pythonweekplan
+DTSTAMP:20250817T120000
+DTSTART:20250817T181500
+DTEND:20250817T184500
+SUMMARY:Python Day 5 – Strings (Basics)
+DESCRIPTION:Lecture: https://youtu.be/vLqTf2b6GZw?t=1710\n\nPractice:\n1. Store your name, print first character.\n2. Print last character.\n3. Slice first 3 characters.\n4. Slice last 3 characters.\n5. Reverse your name.\n6. Concatenate "Python" and "Rocks".\n7. Repeat "Hi" 5 times.\n8. Store "I love Python", print length.\n9. Input string, print uppercase.\n10. Input string, print lowercase.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6@pythonweekplan
+DTSTAMP:20250818T120000
+DTSTART:20250818T181500
+DTEND:20250818T184500
+SUMMARY:Python Day 6 – String Methods
+DESCRIPTION:Lecture: https://youtu.be/vLqTf2b6GZw?t=2280\n\nPractice:\n1. Find "a" in "banana".\n2. Replace "Python" with "Java".\n3. Count "l" in "hello world".\n4. Check startswith "Py".\n5. Check endswith "on".\n6. Strip spaces from "   hello   ".\n7. Split "apple,banana,orange".\n8. Join ["Python","is","fun"].\n9. Title case "python is great".\n10. Check "apple" in sentence.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7@pythonweekplan
+DTSTAMP:20250819T120000
+DTSTART:20250819T181500
+DTEND:20250819T184500
+SUMMARY:Python Day 7 – Review & Mini Project
+DESCRIPTION:Lecture: https://youtu.be/vLqTf2b6GZw\n\nPractice:\n1. Input name, age, city, print summary.\n2. Convert age to months.\n3. Reverse name.\n4. Print first letter of city uppercase.\n5. Replace vowels in name with *.\n6. Check if city contains 'a'.\n7. Print Even or Odd depending on age.\n8. Join name and city with dash.\n9. Format all outputs nicely.\n10. Ensure program runs without error.
+END:VEVENT
+
+END:VCALENDAR
